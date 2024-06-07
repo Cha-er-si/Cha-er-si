@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Charles</h1>
 <p align="center">
-  I am currently a Junior Software Developer of Bastion Inc. working with Web
+  I am currently a Junior Software Developer at Bastion Inc. working with Web
   and Mobile Systems.
 </p>
 
