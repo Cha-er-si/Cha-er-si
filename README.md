@@ -27,7 +27,7 @@
       height="25px"
     />
   </a>
-<!--   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff"
       alt="chartjs"
@@ -41,52 +41,10 @@
       height="25px"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"
-      alt="css3"
-      height="25px"
-    />
-  </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"
       alt="dotnet"
-      height="25px"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"
-      alt="express"
-      height="25px"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"
-      alt="figma"
-      height="25px"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"
-      alt="firebase"
-      height="25px"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"
-      alt="git"
-      height="25px"
-    />
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe"
-      alt="heroku"
       height="25px"
     />
   </a>
@@ -97,21 +55,17 @@
       height="25px"
     />
   </a>
-  <a
-    href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white"
-      alt="illustrator"
+      src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"
+      alt="css3"
       height="25px"
     />
   </a>
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white"
-      alt="ionic"
+      src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"
+      alt="sass"
       height="25px"
     />
   </a>
@@ -126,17 +80,17 @@
       height="25px"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"
-      alt="mongodb"
+      src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"
+      alt="typescript"
       height="25px"
     />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"
-      alt="mysql"
+      src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white"
+      alt="ionic"
       height="25px"
     />
   </a>
@@ -147,17 +101,10 @@
       height="25px"
     />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black"
-      alt="photoshop"
-      height="25px"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"
-      alt="postman"
+      src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"
+      alt="express"
       height="25px"
     />
   </a>
@@ -175,13 +122,6 @@
       height="25px"
     />
   </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"
-      alt="redis"
-      height="25px"
-    />
-  </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff"
@@ -189,10 +129,24 @@
       height="25px"
     />
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"
-      alt="sass"
+      src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"
+      alt="postman"
+      height="25px"
+    />
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"
+      alt="redis"
+      height="25px"
+    />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"
+      alt="mysql"
       height="25px"
     />
   </a>
@@ -203,10 +157,17 @@
       height="25px"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"
-      alt="typescript"
+      src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"
+      alt="mongodb"
+      height="25px"
+    />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"
+      alt="firebase"
       height="25px"
     />
   </a>
@@ -214,6 +175,45 @@
     <img
       src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"
       alt="unity"
+      height="25px"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"
+      alt="git"
+      height="25px"
+    />
+  </a>
+  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe"
+      alt="heroku"
+      height="25px"
+    />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"
+      alt="figma"
+      height="25px"
+    />
+  </a>
+  <a
+    href="https://www.adobe.com/in/products/illustrator.html"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white"
+      alt="illustrator"
+      height="25px"
+    />
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black"
+      alt="photoshop"
       height="25px"
     />
   </a>
@@ -229,7 +229,9 @@
     />
   </a>
 </div>
+
 <br/>
+
 <div align="center">
   <img
     width="300"
@@ -242,7 +244,9 @@
     alt="cha-er-si"
   />
 </div>
+
 <br/>
+
 <div align="center">
   <img
     width="400"
