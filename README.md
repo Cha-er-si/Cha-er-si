@@ -237,7 +237,7 @@
     alt="cha-er-si"
   />
   <img
-    width="600"
+    width="500"
     src="https://github-readme-stats.vercel.app/api?username=cha-er-si&show_icons=true&locale=en&theme=dark&bg_color=0D1117"
     alt="cha-er-si"
   />
