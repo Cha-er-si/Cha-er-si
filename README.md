@@ -232,7 +232,7 @@
 <br/>
 <div align="center">
   <img
-    width="400"
+    width="300"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=cha-er-si&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&hide_border=true"
     alt="cha-er-si"
   />
