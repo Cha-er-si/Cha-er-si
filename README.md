@@ -232,18 +232,21 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=cha-er-si&show_icons=true&locale=en&layout=compact"
+    width="400"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=cha-er-si&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=transparent"
     alt="cha-er-si"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=cha-er-si&show_icons=true&locale=en"
+    width="400"
+    src="https://github-readme-stats.vercel.app/api?username=cha-er-si&show_icons=true&locale=en&theme=dark&bg_color=transparent"
     alt="cha-er-si"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=cha-er-si"
+    width="400"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=cha-er-si&theme=dark&bg_color=transparent"
     alt="cha-er-si"
   />
 </div>
