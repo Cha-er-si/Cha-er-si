@@ -229,7 +229,7 @@
     />
   </a>
 </div>
-
+<br/>
 <div align="center">
   <img
     width="400"
@@ -246,7 +246,7 @@
 <div align="center">
   <img
     width="400"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=cha-er-si&theme=dark&bg_color=0D1117"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=cha-er-si&theme=dark&background=0D1117"
     alt="cha-er-si"
   />
 </div>
