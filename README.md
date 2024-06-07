@@ -242,7 +242,7 @@
     alt="cha-er-si"
   />
 </div>
-
+<br/>
 <div align="center">
   <img
     width="400"
