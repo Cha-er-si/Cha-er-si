@@ -15,14 +15,14 @@
   </a>
   <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg"
+      src="https://img.shields.io/badge/Apache%20Cordova-3776AB?logo=apachecordova&logoColor=white"
       alt="apachecordova"
       height="25px"
     />
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+      src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"
       alt="arduino"
       height="25px"
     />
@@ -110,7 +110,7 @@
   </a>
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"
+      src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white"
       alt="ionic"
       height="25px"
     />
@@ -156,7 +156,7 @@
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"
       alt="postman"
       height="25px"
     />
