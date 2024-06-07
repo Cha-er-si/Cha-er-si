@@ -230,23 +230,20 @@
   </a>
 </div>
 
-<div align="right">
+<div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=cha-er-si&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=cha-er-si&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="cha-er-si"
   />
-</div>
-
-<div align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=cha-er-si&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=cha-er-si&show_icons=true&theme=dark&locale=en"
     alt="cha-er-si"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=cha-er-si&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=cha-er-si&theme=dark"
     alt="cha-er-si"
   />
 </div>
