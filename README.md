@@ -27,13 +27,13 @@
       height="25px"
     />
   </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff"
       alt="chartjs"
       height="25px"
     />
-  </a>
+  </a> -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white"
