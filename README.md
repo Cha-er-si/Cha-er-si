@@ -4,8 +4,8 @@
   and Mobile Systems.
 </h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<h3 align="center">Languages and Tools</h3>
+<div align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"
@@ -228,11 +228,11 @@
       height="25px"
     />
   </a>
-</p>
+</div>
 
 <p>
   <img
-    align="left"
+    align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=cha-er-si&show_icons=true&locale=en&layout=compact"
     alt="cha-er-si"
   />
@@ -240,7 +240,7 @@
 
 <p>
   &nbsp;<img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=cha-er-si&show_icons=true&locale=en"
     alt="cha-er-si"
   />
