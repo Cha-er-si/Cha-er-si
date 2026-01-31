@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Charles</h1>
 <p align="center">
-  I am currently a Junior Software Developer at Bastion Inc. working with Web
-  and Mobile Systems.
+  I am currently an Advanced App Engineering Sr Analyst at Accenture Inc. working with Mobile Systems.
 </p>
 
 <h3 align="center">Languages and Tools</h3>
