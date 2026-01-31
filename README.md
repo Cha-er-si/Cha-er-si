@@ -12,6 +12,34 @@
       height="25px"
     />
   </a> -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"
+      alt="typescript"
+      height="25px"
+    />
+  </a>
+  <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white"
+      alt="ionic"
+      height="25px"
+    />
+  </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"
+      alt="angular"
+      height="25px"
+    />
+  </a>
+  <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Apache%20Cordova-3776AB?logo=apachecordova&logoColor=white"
+      alt="apachecordova"
+      height="25px"
+    />
+  </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white"
@@ -55,34 +83,6 @@
     <img
       src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"
       alt="javascript"
-      height="25px"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"
-      alt="typescript"
-      height="25px"
-    />
-  </a>
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white"
-      alt="ionic"
-      height="25px"
-    />
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"
-      alt="angular"
-      height="25px"
-    />
-  </a>
-  <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Apache%20Cordova-3776AB?logo=apachecordova&logoColor=white"
-      alt="apachecordova"
       height="25px"
     />
   </a>
